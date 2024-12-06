@@ -1,2 +1,7 @@
-66
-123456
+#include<iostream>
+using namespace std;
+int main()
+{
+    printf("Hello World!");
+    return 0;
+}
